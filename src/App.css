@@ -1,0 +1,21 @@
+h1{
+  font-weight: 700;
+  font-size: 50px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+  width: 100%;
+}
+.items-contanier{
+  text-align: left;
+}
+
+.avi-row{
+  margin: 10px 5px;
+
+}
+
+.avi-btn{
+  min-width: 100px;
+}
